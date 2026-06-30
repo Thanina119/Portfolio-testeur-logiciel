@@ -1,12 +1,12 @@
 [
     {
-        "image": "sophie-bluel.png",
+        "image": "sophie-bluel.webp",
         "title": "Site Portfolio-Sophie Bluel",
         "text": "Création du portfolio de l'architecte d'intérieur Sophie Bluel avec JavaScript.",
         "link": "https://github.com/Thanina119/portfolio-architecte-sophie-bluel"
     },
     {
-        "image": "ecoblissbath (2).png",
+        "image": "EcoBlissBath.webp",
         "title": "EcoBlissBath",
         "text": "Automatisation de tests API, fonctionnels, XSS et smoke avec Cypress. ",
         "link": "https://github.com/Thanina119/Eco-Bliss-Bath-V2-main"
